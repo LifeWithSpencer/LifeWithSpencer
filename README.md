@@ -1,38 +1,23 @@
-# 👋 Hi there, I'm Asafa Mahfuz Abiodun
+# 👋 Hi, I'm Asafa Mahfuz Abiodun
+### Backend Developer | Blue Team Enthusiast | Linux SysAdmin
 
-**Computer Science Student at LAUTECH | Backend Developer & Blue Team Enthusiast**
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Backend_Security-blue?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mindset-Blue_Team-green?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Pop!__OS-48B9C7?style=for-the-badge&logo=pop!_os&logoColor=white" />
+</p>
 
-> **Mission:** To engineer backend systems that are secure by design and resilient by default.
+> **"Engineering backend systems that are secure by design and resilient by default."**
 
 ---
 
-### 🔭 I’m currently working on
-- Architecting secure **RESTful APIs** and server-side logic using Node.js.
-- Implementing **Threat Detection** layers within backend environments.
-- Building defensible systems that prioritize data integrity and uptime.
+### 🛡️ About Me
+I am a Computer Science student at LAUTECH dedicated to the intersection of **Backend Development** and **Defensive Cybersecurity**. I’ve traded "pixel-pushing" for raw server-side logic and system hardening.
 
-### 🌱 I’m currently learning
-- **Blue Team Operations:** Network security monitoring and incident response.
-- **Linux SysAdmin:** Mastering server hardening and system administration.
-- **Python for Security:** Writing scripts for automation and vulnerability scanning.
-
-### 👯 I’m looking to collaborate on
-- Open-source **Backend Security** frameworks.
-- Defensive security tools or system monitoring dashboards.
-- Any project focused on **API Security** and server-side hardening.
-
-### 💬 Ask me about
-- **Backend:** Node.js, Express, and MongoDB.
-- **Defensive Security:** Why I prefer the Blue Team mindset.
-- **OS:** Why **Pop!_OS** is my choice for a productive development environment.
-
-### 📫 How to reach me
-- **LinkedIn:** [Mahfuz Asafa](https://www.linkedin.com/in/mahfuz-asafa-37832b292)
-- **Email:** [mahfuzasafa07@gmail.com](mailto:mahfuzasafa07@gmail.com)
-
-### ⚡ Fun fact
-- I’ve traded the "pixel-pushing" of frontend for the raw power of server-side logic.
-- My terminal of choice runs on **Pop!_OS**.
+* 🔭 **Current Focus:** Architecting secure RESTful APIs and implementing Threat Detection layers.
+* 🌱 **Learning Path:** Network Security Monitoring, Incident Response, and Linux Hardening.
+* 🐍 **Automation:** Leveraging Python for security scripting and system tasks.
+* 🐧 **Daily Driver:** Proud Pop!_OS power user.
 
 ---
 
@@ -40,20 +25,30 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Backend** | `Node.js` `Express` `MongoDB` `REST APIs` |
-| **Defensive Sec** | `Blue Team Tactics` `Threat Detection` `Network Security` |
-| **Languages** | `Python` `JavaScript` `Bash Scripting` |
-| **Environment** | `Pop!_OS` `Linux SysAdmin` `Git` `Docker` |
+| **Backend & APIs** | `Node.js` `Express` `MongoDB` `REST APIs` `Postman` |
+| **Defensive Security** | `Threat Detection` `Network Security` `API Hardening` |
+| **Languages** | `Python` `JavaScript` `Bash Scripting`|
+| **DevOps & Systems** | `Linux SysAdmin` `Git/GitHub` `Docker` `Pop!_OS` |
 
 ---
 
-### 📊 System Activity
-![Mahfuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend_Engineering-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mindset-Blue_Team-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/OS-Pop!__OS-48B9C7?style=flat-square&logo=pop!_os&logoColor=white" />
+### 📊 GitHub Activity
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=LifeWithSpencer&show_icons=true&theme=tokyonight&hide_border=true" alt="Mahfuz's Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LifeWithSpencer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/mahfuz-asafa-37832b292"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mahfuzasafa07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### ⚡ Quick Stats
+* **Pronouns:** He/Him
+* **Fun Fact:** I prefer the terminal over a GUI any day. 
+* **Mission:** Building systems that don't just work, but *last*.
