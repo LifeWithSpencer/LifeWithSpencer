@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Asafa Mahfuz Abiodun (Spencer)
 
-### SOC Analyst | NOC Intern @ Galaxy Backbone | Defensive Security
+### SOC Analyst | Defensive Security
 
 🌐 **Portfolio Website:** [mahfuzasafa.com](https://mahfuzasafa.com)  
 📍 **Location:** Lagos, Nigeria  
