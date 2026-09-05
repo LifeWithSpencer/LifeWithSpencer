@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Asafa Mahfuz Abiodun (Spencer)
+# 👋 Hi, I am Asafa Mahfuz Abiodun (SPENCER)
 
-### SOC Analyst | Defensive Security
+### Enterprise & Network Support Services Intern | Cybersecurity & Backend Developer
 
 🌐 **Portfolio Website:** [mahfuzasafa.com](https://mahfuzasafa.com)  
-📍 **Location:** Lagos, Nigeria  
+📍 **Location:** Lagos, Nigeria.
 
 ---
 
@@ -13,12 +13,13 @@
 
 ### 🛡️ About Me
 
-I am a Computer Science student at LAUTECH specializing in **Security Operations (Blue Team)**, **Network Operations**, and **Incident Response**.
+I am a Computer Science student at LAUTECH focused on **Cybersecurity Analysis**, **Enterprise Network Support**, and **Backend Systems**.
 
-* 🔭 **Current Role:** Network Operations Centre (NOC) Intern at Galaxy Backbone Ltd.
-* 🛡️ **Focus:** Threat Detection, Network Monitoring, SIEM fundamentals, and Linux System Administration.
-* 🌐 **Personal Hub:** [mahfuzasafa.com](https://mahfuzasafa.com) — Read my profile, track experience, and download my CV.
-* 🐧 **Daily Driver:** Pop!_OS / Linux power user.
+* 🔭 **Current Role:** Enterprise and Network Support Services (Enterprise/NSS) Intern at Galaxy Backbone.
+* 🏛️ **Leadership:** Secretary General, LAUTECH Students Union Government (LSUG).
+* ☁️ **Community:** Co-Organizer at Cloud Native Ogbomoso.
+* 🌐 **Personal Hub:** [mahfuzasafa.com](https://mahfuzasafa.com)
+* 🐧 **Daily Driver:** Pop!_OS / Linux.
 
 ---
 
@@ -26,16 +27,24 @@ I am a Computer Science student at LAUTECH specializing in **Security Operations
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Defensive Security** | Threat Intelligence, Incident Response, SIEM Fundamentals, Vulnerability Assessment |
-| **Networking & NOC** | Infrastructure Monitoring, TCP/IP, DNS, DHCP, Troubleshooting, Wireshark, Nmap |
-| **DevOps & Systems** | Linux SysAdmin, Git/GitHub, Bash Scripting, Docker |
-| **Backend & Web** | Node.js, Express, RESTful APIs, JavaScript, HTML/CSS |
+| **Languages & Frameworks** | Python, Node.js, FastAPI, Express, Bash, Lua, RESTful APIs, HTML5, CSS3. |
+| **Cybersecurity & Analysis** | SAST/AST, Taint Tracking, Shannon Entropy, OWASP Top 10, CWE, Wireshark, Burp Suite, Network Reconnaissance, Threat Hunting. |
+| **Networking & Systems** | Linux (Pop!_OS, Ubuntu CLI), Windows OS, Cisco Packet Tracer, Git, GitHub, Click CLI, Rich. |
+| **Cloud, Storage & Infrastructure** | Redis, MongoDB, Nginx, Docker, AWS, Azure, Microsoft Azure, VirtualBox, Netlify, Hostinger DNS. |
+
+---
+
+### 🚀 Key Projects
+
+* **FluxGuard Distributed Rate Limiter and API Gateway:** Horizontally scalable distributed API gateway supporting sliding-window and token-bucket rate limiting via atomic Redis Lua scripts with an asynchronous circuit breaker (Python, FastAPI, Redis, Docker, Nginx, Lua).
+* **CerberusCLI Autonomous SAST Engine and Security Linter:** AST-based Python SAST scanner featuring taint tracking, SARIF 2.1.0 output for GitHub Advanced Security, and CI/CD policy gating (Python, AST, Static Analysis, SARIF, Click, Rich).
 
 ---
 
 ### 🤝 Connect with Me
 
-[![Website](https://img.shields.io/badge/Website-mahfuzasafa.com-00B4D8?style=flat&logo=google-chrome&logoColor=white)](https://mahfuzasafa.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahfuz%20Asafa-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahfuz-asafa-37832b292/)
-[![Twitter/X](https://img.shields.io/badge/X-@lifewithspencer-000000?style=flat&logo=x&logoColor=white)](https://x.com/lifewithspencer)
-[![Email](https://img.shields.io/badge/Email-mahfuzasafa07@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahfuzasafa07@gmail.com)
+* 🌐 **Website:** [mahfuzasafa.com](https://mahfuzasafa.com)
+* 💼 **LinkedIn:** [Mahfuz Asafa](https://www.linkedin.com/in/mahfuz-asafa-37832b292/)
+* 🐙 **GitHub:** [LifeWithSpencer](https://github.com/LifeWithSpencer)
+* 🐦 **X (Twitter):** [@lifewithspencer](https://x.com/lifewithspencer)
+* 📧 **Email:** [mahfuzasafa07@gmail.com](mailto:mahfuzasafa07@gmail.com)
